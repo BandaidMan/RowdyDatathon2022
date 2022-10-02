@@ -2,7 +2,7 @@
 
 
 ### Contributors
- - Aiden Kollar
+ - Aidan Kollar
  - Liam Ralph
  - Nicolas Ruiz
  - Shruthi Senthilarasu
